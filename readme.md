@@ -1,3 +1,5 @@
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fnguyenthuongvo%2Fnextjs-notion-starter-kit.git&project-name=free-website-notion&repository-name=free-website-notion)
+
 <p align="center">
   <a href="https://transitivebullsh.it/nextjs-notion-starter-kit">
     <img alt="Example article page" src="https://user-images.githubusercontent.com/552829/160132094-12875e09-41ec-450a-80fc-ae8cd488129d.jpg" width="689">
